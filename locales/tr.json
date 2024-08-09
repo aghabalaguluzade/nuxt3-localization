@@ -1,0 +1,18 @@
+{
+    "home" : {
+        "header_part1" : "Dijital bina",
+        "header_part2" : "ürünler ve markalar.",
+        "header_description" : "Bu ücretsiz ve açık kaynaklı açılış sayfası şablonu, Tailwind CSS'deki yardımcı program sınıfları kullanılarak ve Flowbite Kütüphanesi ile Blocks System'deki bileşenler temel alınarak oluşturulmuştur."
+    },
+    "layouts.title" : "Nuxt 3 Localization",
+    "login" : {
+        "login" : "Giriş",
+        "signAccount" : "Hesabınıza giriş yapın",
+        "emailAddress" : "E-posta adresi",
+        "password" : "Şifre",
+        "signin" : "Kayıt olmak",
+        "forgot_password" : "Parolanızı mı unuttunuz?",
+        "not_member" : "Üye değil?",
+        "free_trail" : "14 günlük ücretsiz deneme sürümünü başlatın"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "home" : {
+        "header_part1" : "Building digital",
+        "header_part2" : "products & brands.",
+        "header_description" : "This free and open-source landing page template was built using the utility classes from Tailwind CSS and based on the components from the Flowbite Library and the Blocks System."
+    },
+    "layouts.title" : "Nuxt 3 Localization",
+    "login" : {
+        "login" : "Login",
+        "signAccount" : "Sign in to your account",
+        "emailAddress" : "Email address",
+        "password" : "Password",
+        "signin" : "Sign in",
+        "forgot_password" : "Forgot password?",
+        "not_member" : "Not a member?",
+        "free_trail" : "Start a 14 day free trial"
+    }
+}
